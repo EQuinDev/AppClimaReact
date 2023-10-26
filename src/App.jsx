@@ -1,5 +1,5 @@
 import AppClima from "./components/AppClima"
-import { ClimaProvider } from "./Context/ClimaProvider"
+import { ClimaProvider } from "./context/ClimaProvider"
  
 function App() {
 
