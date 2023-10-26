@@ -6,6 +6,9 @@ function App() {
 
   return (
     <ClimaProvider>
+      <header>
+        <h1>Buscador de clima</h1>
+      </header>
       <AppClima />
     </ClimaProvider>
   )
